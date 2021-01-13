@@ -20,15 +20,16 @@ needs_cleanup: true  # needs to be rewritten (issue #4753)
 
 ### Chat
 
-Only appears when you used "/savelog" at Chat Console once or if you enabled "Automatically log private messages" in Options. The folder shows your **Chat Console tab's log of comments.**
+This folder appears when you used "/savelog" at [Chat Console](/wiki/Chat_Console) once or if you enabled "Automatically log private messages" in the options. The folder shows your chat's log of comments.
 
-The styling is `{Tab_name}-{YYYYMMDD}-{HHMMSS}` in .txt format, which basically can be opened in any word application of choice(Notepad).
+The styling is {Tab_name}-{YYYYMMDD}-{HHMMSS} in .txt format, which basically can be opened in any text editor of choice(Notepad).
 
-**Example:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs)).
+Example: #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs)).
+
 
 ### Downloads
 
-This folder appears when you use the "osu!direct" download service (requires [osu!supporter](/wiki/osu!supporter)). **This holds the .osz files which you are currently downloading from osu!direct**. It will then be transferred into osu!'s Songs folder as legitimate beatmaps upon completion.
+This folder appears when you use the "osu!direct" download service (requires [osu!supporter](/wiki/osu!supporter)). **This holds the .osz files which you are currently downloading from osu!direct**. The contents will then be transferred into osu!'s Songs folder as legitimate beatmaps upon completion.
 
 ### Exports
 
@@ -50,7 +51,9 @@ The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-
 
 ### Screenshots
 
-**Screenshots (F12 by default) of osu!**. The saved screenshot's file extension (.jpg/.png) is based on what you set on the Options menu.
+**This folder holds Screenshots you have created in osu!**. The saved screenshot's file extension (.jpg/.png) is based on what you set on the Options menu.
+
+To create a screenshot, press the screenshot key (F12 by default).
 
 The format is `screenshot###` where "###" is the screenshot number count.
 
@@ -58,11 +61,11 @@ The format is `screenshot###` where "###" is the screenshot number count.
 
 This folder holds **user-created skins, which can be used to customise the in-game interface.** You can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). You can instal .osk skins by double-clicking them. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in a ZIP or RAR format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind that the selected skin is only visible to you.
 
-For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted directly.
+For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
 ### Songs
 
-**Your compendium of osu! beatmaps**. Usually contains .osu (difficulties), .mp3/.ogg (music file), .jpg/.png/.gif (BG image), .osb (SB file) and .mp4/.flv (video file). May also contains .wav/.ogg (hitsound file) and folders (SB spites and/or skin).
+**This folder holds all your osu! beatmaps**. Usually contains .osu (difficulties), .mp3/.ogg (music files), .jpg/.png/.gif (background images), .osb (storyboard files) and .mp4/.flv (video files). May also contains .wav/.ogg (hitsound files) and folders (storyboard spites and/or skin).
 
 The format is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
