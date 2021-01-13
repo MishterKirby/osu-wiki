@@ -5,9 +5,9 @@
 ### Installation Paths ###
 <!--TODO: Find out where macOS osu! is stored-->
 osu! is installed by default in the following locations, by default:
-| Windows 	| C:\Users\<username>\AppData\Local\osu! 	|
-|---------	|----------------------------------------	|
-| Mac     	|                                        	|
+| Windows 	| C:\Users\<username>\AppData\Local\osu! 	  |
+|---------	|----------------------------------------	  |
+| Mac     	| /Applications/osu!.app/Contents/drive_c/osu!|
 
 ## Folders
 
@@ -88,16 +88,16 @@ Configuration files or config files configure the initial settings for osu! to w
 - `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
 - `osu!.<username>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
 
-<!--TODO: Find out what osu!'s executable is in other platforms.
+
 ### .exe (Application)
 
-The main component. Click on it to start-up. The .exe files are safe to open assuming you used the osu!installer to install osu!.
+The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming you used the osu!installer to install osu!.
 
-osu!.exe (Start-up osu!)-->
+osu!.exe (Start-up osu!)
 
 #### .dll (application extension)
 
-These .dll files are components of osu!, and osu!'s dependencies.
+These .dll files are osu!'s components and dependencies.
 
 **Dependencies**
 
