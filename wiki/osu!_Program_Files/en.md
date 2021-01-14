@@ -81,15 +81,15 @@ the player's "Collections" in-game. the player can post it to forum for others t
 
 ### osu!.db 
 
-osu!'s database of beatmaps. 
+This file contains osu!'s database of beatmaps difficulties.
 
 ### presence.db
 
-Cache of osu!players logged in the Chat_Console.
+This file is a cache of osu!players logged in the Chat_Console.
 
 ### scores.db
 
-Stores historical local scores that you have acheived.
+This file contains the local leaderboards.
 
 ### .cfg (Configuration files)
 
