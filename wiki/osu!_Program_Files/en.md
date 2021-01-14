@@ -65,27 +65,27 @@ Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRIN
 
 ## Hidden folders
 
-*Caution: Be careful with these files, you might break osu! if you are not careful.*
-
 ### Data
 
 osu! data files. Contains some of osu!'s cache. They should not be deleted, because they may be in use by osu!.
 
 ## Files
 
+*Caution: Be careful with these files, you might break osu! if you are not careful.*
+
 ### Database Files (.db)
 
 ### collection.db
 
-the player's "Collections" in-game. the player can post it to forum for others to check out the player's "Collections". Actual beatmaps are not provided.
+The player's "Collections" in-game. The player can post them to the forums for others to see. Actual beatmaps are not provided.
 
 ### osu!.db 
 
-This file contains osu!'s database of beatmaps difficulties.
+This file contains osu!'s database of beatmap difficulties.
 
 ### presence.db
 
-This file is a cache of osu!players logged in the Chat_Console.
+This file is a cache of osu!players logged in the Chat Console.
 
 ### scores.db
 
