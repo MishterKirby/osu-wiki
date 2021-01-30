@@ -67,7 +67,7 @@ Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRIN
 
 ### Data
 
-osu! data files. Contains some of osu!'s cache. They should not be deleted, because they may be in use by osu!.
+osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
 
 ### Files
 
@@ -129,4 +129,3 @@ These .dll files are osu!'s components and dependencies.
 - osu!gameplay.dll
 - osu!seasonal.dll
 - osu!ui.dll
-
