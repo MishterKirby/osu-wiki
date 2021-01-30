@@ -16,8 +16,8 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 | Registration phase | 2020-12-05/2020-12-26 |
 | Screening and team creations | 2020-12-26/2021-01-02 |
 | Qualifiers | 2021-01-09/2021-01-10 |
-| Round of 24 | 2021-01-15/2021-01-17 |
-| Round of 16 | 2021-01-22/2021-01-24 |
+| Round of 24 | 2021-01-16/2021-01-17 |
+| Round of 16 | 2021-01-23/2021-01-24 |
 | Quarterfinals | 2021-01-29/2021-01-31 |
 | Semifinals | 2021-02-05/2021-02-07 |
 | Finals | 2021-02-12/2021-02-14 |
@@ -91,6 +91,58 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (91 MB)](https://www.mediafire.com/file/t378e35u3mdzeij/MAPPACK+QF.rar)**
+
+- NoMod
+  - [cosMo@BousouP - Bamboo Sword Girl (Extend version) (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1246773#taiko/2591444)
+  - [kobaryo - SEITEN NO TERIYAKI (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/607920#taiko/1283931)
+  - [llliiillliiilll - b (maziari1105) \['`+*;.,\]](https://osu.ppy.sh/beatmapsets/894000#taiko/1868244)
+  - [Lazhward - CFIT (-Kazu-) \[Bicolor Airline (finisher nerf)\]](https://osu.ppy.sh/beatmapsets/1273664#taiko/2802448)
+  - [Zedd, Griff - Inside Out (Dream Hackers Remix) (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1329909#taiko/2755536)
+- Hidden
+  - [BLUE ENCOUNT - HOPE (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/741825#taiko/1564916)
+  - [Circle of Dust - Humanarchy (Blue Stahli Remix) (160BPM Edit) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1339226#taiko/2774399)
+- HardRock
+  - [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/896221)
+  - [Kabocha - EmbryO (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/944558#taiko/2120949)
+- DoubleTime
+  - [Ayumi Hamasaki - Ayu's Euro Mega-Mix [Y & Co. Mix] (J a c k y) \[Timeless Classic\]](https://osu.ppy.sh/beatmapsets/1278702#taiko/2656385)
+  - [nano.RIPE - Last Chapter (iloveyou4ever) \[Oni\]](https://osu.ppy.sh/beatmapsets/1278839#taiko/2656612)
+- FreeMod
+  - [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Green's Inner Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2083710)
+  - [uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix) (Konpaku Sariel) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1351589#taiko/2798101)
+  - [dj MAX STEROID - Arabian Rave Night (Genjuro) \[Nights under the Starry Sky reflecting upon the endless Seas of Sand\]](https://osu.ppy.sh/beatmapsets/926762#taiko/1935734)
+- Tiebreaker
+  - **[WAiKURO - Androgynos (Full Phase) (Raytoly) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/666397#taiko/1410506)**
+
+### Round of 16
+
+**[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar)**
+
+- NoMod
+  - [Sleeping Pola - C-E-D-A-R (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1031258#taiko/2156505)
+  - [Shara - Kimi Iro Palette (Speed Up Ver.) (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1306836#taiko/2709471)
+  - [sasakure.UK feat. Hatsune Miku - SAMPLING MONSTER (HiroK) \[INNER ONI (3TWC edit)\]](https://osu.ppy.sh/beatmapsets/716475#taiko/2796344)
+  - [Kufuo- - Khamen Break (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/496386#taiko/1056558)
+  - [Igorrr - Tout Petit Moineau (Ulqui) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/901060#taiko/1907311)
+- Hidden
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2355655)
+- HardRock
+  - [Street - Hestia (tasuke912) \[Fornax\]](https://osu.ppy.sh/beatmapsets/1209521#taiko/2518134)
+  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7\_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
+- DoubleTime
+  - [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
+  - [Umiai - Lapislazuli (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/907436#taiko/2018014)
+- FreeMod
+  - [cosMo@BououP - UnivEarth (Album Ver.) (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/558209#taiko/1180866)
+  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MASTER\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760017)
+  - [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
+- Tiebreaker
+  - **[Tanchiky - WABI-CIRCUIT (Original Mix) (Faputa) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1206554#taiko/2512638)**
+
 ### Round of 24
 
 **[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar)**
@@ -133,6 +185,54 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 4 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/74029329) |
+| **Japan** ![][flag_JP] | **6** | 1 | ![][flag_EU] European Alliance | [#1](https://osu.ppy.sh/community/matches/74037200) |
+| **Finland** ![][flag_FI] | **6** | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/74043172) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | [#1](https://osu.ppy.sh/community/matches/74050913) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Inca Empire ![][flag_CO] ![][flag_EC] ![][flag_PE] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74086384) |
+| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/74089328), [#2](https://osu.ppy.sh/community/matches/74092626) |
+| **Argentina** ![][flag_AR] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/74089088) |
+| Singapore ![][flag_SG] | 3 | **6** | ![][flag_CR] ![][flag_VE] **Venezuela Rica** | [#1](https://osu.ppy.sh/community/matches/74092657) |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/74098037) |
+| **China** ![][flag_CN] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/74113705) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/74117569) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/74127800) |
+
+### Round of 24
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/73523186) |
+| **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_CH] ![][flag_IT] Switaly | [#1](https://osu.ppy.sh/community/matches/73532037) |
+| **Oceanic Alliance** ![][flag_AU] ![][flag_NZ] | **0** | -1 | ![][flag_NO] ![][flag_SE] Scandinavia | *win by default* |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/73534917) |
+| **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/73540767) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_CR] ![][flag_VE] Venezuela Rica | [#1](https://osu.ppy.sh/community/matches/73582669) |
+| **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/73582850) |
+| **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73602796) |
+| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/73612078) |
+| **Finland** ![][flag_FI] | **6** | 0 | ![][flag_CO] ![][flag_EC] ![][flag_PE] Inca Empire | [#1](https://osu.ppy.sh/community/matches/73619451) |
+| **European Alliance** ![][flag_EU] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/73619442) |
+| **Russian Federation** ![][flag_RU] | **6** | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/73623660) |
+
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
@@ -156,7 +256,7 @@ The 3 Digit Taiko World Cup is run by various community members.
 | #12 | ![][flag_HK] Hong Kong | 47 |
 | #13 | ![][flag_TW] Taiwan | 75 |
 | #14 | ![][flag_EU] European Alliance | 80 |
-| #15 | ![][flag_AU] ![][flag_NZ] New Zealand | 84 |
+| #15 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | 84 |
 | #16 | ![][flag_RU] Russian Federation | 89 |
 | #17 | ![][flag_MX] Mexico | 92 |
 | #18 | ![][flag_NO] ![][flag_SE] Scandinavia | 94 |

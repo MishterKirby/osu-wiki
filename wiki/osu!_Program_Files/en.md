@@ -50,7 +50,11 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 ### Skins
 
+<<<<<<< HEAD
 This folder holds **user-created skins, which can be used to customise the in-game interface.** Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. 
+=======
+This folder holds **user-created skins, which can be used to customise the in-game interface.** You can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). You can install .osk skins by double-clicking them. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in a ZIP or RAR format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind that the selected skin is only visible to you.
+>>>>>>> e78270d1d920905df8e145d2cccd9e5ab8864daa
 
 For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
@@ -127,5 +131,5 @@ These .dll files are osu!'s components and dependencies.
 
 - osu!gameplay.dll
 - osu!seasonal.dll
+- osu!auth.dll
 - osu!ui.dll
-- osu.dll
