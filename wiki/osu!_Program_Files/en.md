@@ -69,7 +69,7 @@ Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRIN
 
 osu! data files. Contains some of osu!'s cache. They should not be deleted, because they may be in use by osu!.
 
-## Files
+### Files
 
 *Caution: Be careful with these files, you might break osu! if you are not careful.*
 
