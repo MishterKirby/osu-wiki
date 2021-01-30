@@ -101,7 +101,7 @@ Configuration files or config files configure the initial settings for osu! to w
 
 ### .exe (Application)
 
-The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming the player used the osu!installer to install osu!.
+The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer to install osu!.
 
 osu!.exe (Start-up osu!)
 
@@ -124,8 +124,9 @@ These .dll files are osu!'s components and dependencies.
 - pthreadGC2.dll
 
 **osu! components**
-
+- osu.dll
+- osu!auth.dll 
 - osu!gameplay.dll
 - osu!seasonal.dll
 - osu!ui.dll
-- osu.dll
+
