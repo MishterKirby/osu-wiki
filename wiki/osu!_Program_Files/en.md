@@ -73,11 +73,11 @@ osu! data files. Contains some of osu!'s cache. They should not be deleted, beca
 
 *Caution: Be careful with these files, you might break osu! if you are not careful.*
 
-### Database Files (.db)
+## Database files (.db)
 
 ### collection.db
 
-The player's "Collections" in-game. The player can post them to the forums for others to see. Actual beatmaps are not provided.
+The player's "Collections" in-game. The player can post them to the forums for others to see. Actual beatmaps are not provided with the collection file.
 
 ### osu!.db 
 
@@ -91,7 +91,7 @@ This file is a cache of osu!players logged in the Chat Console.
 
 This file contains the local leaderboards.
 
-### .cfg (Configuration files)
+## .cfg (Configuration files)
 
 Configuration files or config files configure the initial settings for osu! to work. The files can be opened with a text editor.
 
