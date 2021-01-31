@@ -13,7 +13,7 @@ osu! is installed by default in the following locations, by default:
 
 ### Chat
 
-This folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Chat_Console).
+This folder only appears if the player has `Automatically log private messages` enabled in Options, or the player runs the `/savelog` command in the [Chat Console](/wiki/Chat_Console).
 
 The file name structure is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor (e.g. Notepad)
 
