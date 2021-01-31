@@ -4,7 +4,7 @@
 
 The **osu! program files** are a set of files that run osu! and keep track of different activities as user's play.
 
-### Installation Paths ###
+## Installation Paths ##
 
 osu! is installed in the following locations, by default:
 | Windows | macOS |
@@ -36,12 +36,12 @@ Players that want to know how to do this can see [osu! File Formats](/wiki/osu!_
 The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
 
 ### Replays
+
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). 
 
 *For players who interested in uploading their replay to YouTube, see: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
 
 The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
-
 
 **Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
@@ -88,6 +88,7 @@ The database files are daabases that osu! requires to function propertly. The fi
 - `osu!.db`: Stores osu!'s database of beatmaps.
 - `presence.db`: Stores a cache of osu!players logged in the Chat Console.
 - `scores.db`: Stores the local leaderboards.
+
 ## .cfg (Configuration files)
 
 Configuration files or config files configure the initial settings for osu! to work. The files can be opened with a text editor.
@@ -97,7 +98,6 @@ Configuration files or config files configure the initial settings for osu! to w
 
 
 ### .exe (Application)
-
 The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer to install osu!.
 
 osu!.exe (Start-up osu!)
@@ -121,6 +121,7 @@ These .dll files are osu!'s components and dependencies.
 - pthreadGC2.dll
 
 **osu! components**
+
 - osu.dll
 - osu!auth.dll 
 - osu!gameplay.dll
