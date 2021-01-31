@@ -25,7 +25,7 @@ This folder holds the beatmaps being downloaded by osu!direct (requires [osu!sup
 
 ### Exports
 
-This folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
+This folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu) function. This folder will hold all the beatmaps and skins the player has exported from osu!.
 
 Players that want to know how to do this can see [osu! File Formats](/wiki/osu!_File_Formats).
 
