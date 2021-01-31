@@ -2,6 +2,8 @@
 
 ![The file structure of osu!'s installation folder, on Windows](img/windows.png "The file structure of osu!'s installation folder, on Windows") ![The file structure of osu!'s installation folder, on macOS](img/macos.png "The file structure of osu!'s installation folder, onmacOSs")
 
+The osu! program files are a set of files that run osu! and keep track of different activities as user's play
+
 ### Installation Paths ###
 osu! is installed in the following locations, by default:
 | Windows | macOS |
@@ -63,7 +65,7 @@ The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) or [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), as well as unsubmitted beatmaps, do not follow the format.
 
 ## Hidden folders
-
+These folders are hidden because any 
 ### Data
 
 osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
