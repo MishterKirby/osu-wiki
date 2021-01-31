@@ -4,7 +4,7 @@
 
 ### Installation Paths ###
 <!--TODO: Find out where macOS osu! is stored-->
-osu! is installed by default in the following locations, by default:
+osu! is installed in the following locations, by default:
 | Windows 	| C:\Users\<username>\AppData\Local\osu! 	  |
 |---------	|----------------------------------------	  |
 | macOS     | /Applications/osu!.app/Contents/drive_c/osu!|
@@ -13,7 +13,7 @@ osu! is installed by default in the following locations, by default:
 
 ### Chat
 
-This folder only appears if the player has `Automatically log private messages` enabled in Options, or the player runs the `/savelog` command in the [Chat Console](/wiki/Chat_Console).
+This folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Chat_Console).
 
 The file name structure is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor (e.g. Notepad)
 
@@ -25,7 +25,7 @@ This folder holds the beatmaps being downloaded by osu!direct (requires [osu!sup
 
 ### Exports
 
-This folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu) function. This folder will hold all the beatmaps and skins the player has exported from osu!.
+This folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
 
 Players that want to know how to do this can see [osu! File Formats](/wiki/osu!_File_Formats).
 
@@ -50,11 +50,7 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 ### Skins
 
-<<<<<<< HEAD
 This folder holds **user-created skins, which can be used to customise the in-game interface.** Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. 
-=======
-This folder holds **user-created skins, which can be used to customise the in-game interface.** You can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). You can install .osk skins by double-clicking them. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in a ZIP or RAR format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind that the selected skin is only visible to you.
->>>>>>> e78270d1d920905df8e145d2cccd9e5ab8864daa
 
 For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
@@ -71,17 +67,17 @@ Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRIN
 
 ### Data
 
-osu! data files. Contains some of osu!'s cache. They should not be deleted, because they may be in use by osu!.
+osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
 
-## Files
+### Files
 
 *Caution: Be careful with these files, you might break osu! if you are not careful.*
 
-### Database Files (.db)
+## Database files (.db)
 
 ### collection.db
 
-The player's "Collections" in-game. The player can post them to the forums for others to see. Actual beatmaps are not provided.
+The player's "Collections" in-game. The player can post them to the forums for others to see. Actual beatmaps are not provided with the collection file.
 
 ### osu!.db 
 
@@ -95,7 +91,7 @@ This file is a cache of osu!players logged in the Chat Console.
 
 This file contains the local leaderboards.
 
-### .cfg (Configuration files)
+## .cfg (Configuration files)
 
 Configuration files or config files configure the initial settings for osu! to work. The files can be opened with a text editor.
 
@@ -105,7 +101,7 @@ Configuration files or config files configure the initial settings for osu! to w
 
 ### .exe (Application)
 
-The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming the player used the osu!installer to install osu!.
+The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer to install osu!.
 
 osu!.exe (Start-up osu!)
 
@@ -128,8 +124,8 @@ These .dll files are osu!'s components and dependencies.
 - pthreadGC2.dll
 
 **osu! components**
-
+- osu.dll
+- osu!auth.dll 
 - osu!gameplay.dll
 - osu!seasonal.dll
-- osu!auth.dll
 - osu!ui.dll
