@@ -5,9 +5,7 @@
 ### Installation Paths ###
 <!--TODO: Find out where macOS osu! is stored-->
 osu! is installed in the following locations, by default:
-| Windows 	| C:\Users\<username>\AppData\Local\osu! 	  |
-|---------	|----------------------------------------	  |
-| macOS     | /Applications/osu!.app/Contents/drive_c/osu!|
+| Windows 	| C:\Users\<username>\AppData\Local\osu!| macOS     | /Applications/osu!.app/Contents/drive_c/osu!|
 
 ## Folders
 
