@@ -1,6 +1,6 @@
 # osu! program files
 
-![The file structure of osu!'s installation folder](img/osu!-program-files.png "The file structure of osu!'s installation folder")
+![The file structure of osu!'s installation folder, on Windows](img/windows.png "The file structure of osu!'s installation folder, on Windows")
 
 ### Installation Paths ###
 <!--TODO: Find out where macOS osu! is stored-->
