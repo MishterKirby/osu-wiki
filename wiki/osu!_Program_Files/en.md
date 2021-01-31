@@ -16,7 +16,7 @@ osu! is installed in the following locations, by default:
 
 This folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Chat_Console).
 
-The name structure of the files in <!--relative filepath--> is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
+The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
 **Example**: #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
@@ -57,7 +57,7 @@ This folder holds **user-created skins, which can be used to customise the in-ga
 
 ### Songs
 
-**This folder holds the player's osu! beatmaps**. Usually contains .osu (difficulties), .mp3/.ogg (music files), .jpg/.png/.gif (background images), .osb (storyboard files) and .mp4/.flv (video files). May also contains .wav/.ogg (hitsound files) and folders (storyboard spites and/or skin).
+**This folder holds the player's osu! beatmaps**. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard spites and/or skin folders).
 
 The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
