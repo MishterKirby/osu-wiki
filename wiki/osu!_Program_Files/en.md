@@ -1,8 +1,7 @@
 # osu! program files
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/files.png "The file structure of osu!'s installation folder, on Windows and macOS")
-
-The osu! program files are a set of files that run osu! and keep track of different activities as user's play
+The osu! program files are a set of files that run osu! and keep track of different activities as user's play.
 
 ### Installation Paths ###
 osu! is installed in the following locations, by default:
@@ -45,7 +44,7 @@ The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-
 
 **This folder holds screenshots the player has created in osu!**. The saved screenshot's file extension (.jpg/.png) is based on what the player set on the Options menu.
 
-To create a screenshot, press the screenshot key (F12 by default).
+*Note: To create a screenshot, press the screenshot key (F12 by default).*
 
 The file name structure is `screenshot###`, where "###" is the screenshot number count.
 
