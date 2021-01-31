@@ -37,13 +37,14 @@ The Localizations folder appears when the player has switched their language in 
 ### Replays
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). [For players who are interested to upload their replay to the YouTube, see this thread](https://osu.ppy.sh/community/forums/topics/1104243).
 
-The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
+The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
+
 
 **Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
 ### Screenshots
 
-**The Screenshots folder holds screenshots the player has created in osu!**. The saved screenshot's file extension (.jpg/.png) is based on what the player set on the Options menu.
+**The Screenshots folder holds screenshots the player has created in osu!**. **This folder holds screenshots the player has created in osu!**. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
 
 *Note: To create a screenshot, press the screenshot key (F12 by default).*
 
@@ -65,7 +66,9 @@ The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) or [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), as well as unsubmitted beatmaps, do not follow the format.
 
 ## Hidden folders
+
 These folders are hidden because any modifications to them could prevent osu! from starting correctly, or at all.
+
 ### Data
 
 osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
