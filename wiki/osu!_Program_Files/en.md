@@ -1,6 +1,7 @@
 # osu! program files
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.png "The file structure of osu!'s installation folder, on Windows and macOS")
+
 The **osu! program files** are a set of files that run osu! and keep track of different activities as user's play.
 
 ### Installation Paths ###
@@ -35,7 +36,9 @@ Players that want to know how to do this can see [osu! File Formats](/wiki/osu!_
 The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation.
 
 ### Replays
-The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). [For players who are interested to upload their replay to the YouTube, see this thread](https://osu.ppy.sh/community/forums/topics/1104243).
+The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). 
+
+*For players who interested in uploading their replay to YouTube, see: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
 
 The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
 
@@ -44,7 +47,7 @@ The file name structure is `{Local player name} - {Artist} - {Title} {[Difficult
 
 ### Screenshots
 
-**The Screenshots folder holds screenshots the player has created in osu!**. **This folder holds screenshots the player has created in osu!**. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
+The Screenshots folder holds screenshots the player has created in osu!. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
 
 *Note: To create a screenshot, press the screenshot key (F12 by default).*
 
