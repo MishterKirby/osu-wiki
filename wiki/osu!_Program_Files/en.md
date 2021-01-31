@@ -50,7 +50,7 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 This folder holds **user-created skins, which can be used to customise the in-game interface.** Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. 
 
-For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted.
+*For further reference, please refer to the [Skinning](/wiki/Skinning) page.*` "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
 ### Songs
 
