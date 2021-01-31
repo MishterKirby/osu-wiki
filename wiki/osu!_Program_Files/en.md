@@ -1,6 +1,6 @@
 # osu! program files
 
-![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.png "The file structure of osu!'s installation folder, on Windows and macOS")
+![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
 
 The **osu! program files** are a set of files that run osu! and keep track of different activities as user's play.
 
