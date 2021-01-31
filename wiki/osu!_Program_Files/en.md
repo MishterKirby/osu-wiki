@@ -32,7 +32,7 @@ Players that want to know how to do this can see [osu! File Formats](/wiki/osu!_
 
 ### Localisations
 
-The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation.
+The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
 
 ### Replays
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). [For players who are interested to upload their replay to the YouTube, see this thread](https://osu.ppy.sh/community/forums/topics/1104243).
