@@ -1,13 +1,14 @@
 # osu! program files
 
-![The file structure of osu!'s installation folder](img/osu!-program-files.png "The file structure of osu!'s installation folder")
+![The file structure of osu!'s installation folder, on Windows and macOS](img/files.png "The file structure of osu!'s installation folder, on Windows and macOS")
+
+The osu! program files are a set of files that run osu! and keep track of different activities as user's play
 
 ### Installation Paths ###
-<!--TODO: Find out where macOS osu! is stored-->
 osu! is installed in the following locations, by default:
-| Windows 	| C:\Users\<username>\AppData\Local\osu! 	  |
-|---------	|----------------------------------------	  |
-| macOS     | /Applications/osu!.app/Contents/drive_c/osu!|
+| Windows | macOS |
+| :-- | :-- |
+| `C:\Users\<Username>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/drive_c/osu`! |
 
 ## Folders
 
@@ -52,7 +53,7 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 This folder holds **user-created skins, which can be used to customise the in-game interface.** Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. 
 
-For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted.
+*For further reference, please refer to the [Skinning](/wiki/Skinning) page.*` "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
 ### Songs
 
@@ -64,7 +65,7 @@ The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) or [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), as well as unsubmitted beatmaps, do not follow the format.
 
 ## Hidden folders
-
+These folders are hidden because any 
 ### Data
 
 osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
