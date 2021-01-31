@@ -16,7 +16,7 @@ osu! is installed in the following locations, by default:
 
 This folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Chat_Console).
 
-The file name structure is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor (e.g. Notepad)
+The name structure of the files in <!--relative filepath--> is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
 **Example**: #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
