@@ -4,9 +4,10 @@
 
 The **osu! program files** are a set of files that run osu! and keep track of different activities as user's play.
 
-## Installation Paths
+## Installation paths
 
 osu! is installed in the following locations, by default:
+
 | Windows | macOS |
 | :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/drive_c/osu`! |
@@ -57,7 +58,7 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 The Skins folder holds **user-created skins, which can be used to customise the in-game interface.** Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. 
 
-*For further reference, please refer to the [Skinning](/wiki/Skinning) page.*` "osu! by peppy" is the only skin without its folder and cannot be deleted.
+*For further reference, please refer to the [Skinning](/wiki/Skinning) page.* "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
 ### Songs
 
@@ -96,8 +97,8 @@ Configuration files or config files configure the initial settings for osu! to w
 - `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
 - `osu!.<username>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
 
-
 ### .exe (Application)
+
 The main component. Click on it to start-up (only applies to Windows.) The .exe files are safe to open assuming the player used the osu!installer to install osu!.
 
 osu!.exe (Start-up osu!)
